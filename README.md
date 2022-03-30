@@ -18,11 +18,12 @@
 - 역시 근본
 - 30 epoch
 ### 2. Wavenet
-- faster (10 epoch)
+- fast (10 epoch)
 - skip connection 이후 original Wavenet 대로 relu->conv 구조를 사용했으나 좋지않아서 dense로 대체
 
 ### 3. LightGBM
-
+- very fast
+- 스케일링 안하는게 나음
 ## References
 ```
 [1] Lim, Bryan, and Stefan Zohren. "Time-series forecasting with deep learning: a survey." Philosophical Transactions of the Royal Society A 379.2194 (2021): 20200209.
