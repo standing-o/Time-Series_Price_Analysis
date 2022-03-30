@@ -15,8 +15,11 @@
 ```
 ## Modeling
 ### 1. Long short term memory
-
+- 역시 근본
+- 30 epoch
 ### 2. Wavenet
+- faster (10 epoch)
+- skip connection 이후 original Wavenet 대로 relu->conv 구조를 사용했으나 좋지않아서 dense로 대체
 
 ### 3. LightGBM
 
