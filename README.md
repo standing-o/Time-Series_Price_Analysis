@@ -8,6 +8,7 @@
 - I will use stock and bitcoin price data to implement some deep learning models that have been widely researched and implemented.
 - Forecasting will be conducted using APPL and BTC prices, which are considered to lead the financial market.
 
+| [Presentation](https://github.com/OH-Seoyoung/Time-series_price_analysis/blob/master/20220331_stock_price_forecasting.pdf) |
 ## Dataset
 ```
 [1] Apple - 10 Year Stock Price History, https://www.kaggle.com/datasets/aleksandrdubrovin/apple-stock-price-history
