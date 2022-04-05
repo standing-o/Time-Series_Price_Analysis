@@ -1,5 +1,5 @@
 # Time-series price analysis
-- Stock and Bitcoin time-series forecasting using deeplearning
+- Stock and Bitcoin time-series forecasting using machine learning
 - Long short term memory, Wavenet, LightGBM
 - Jul. 7, 2021 ~ Present
 
