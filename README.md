@@ -14,7 +14,7 @@
 [1] Apple - 10 Year Stock Price History, https://www.kaggle.com/datasets/aleksandrdubrovin/apple-stock-price-history
 [2] Analyzing and Predicting Bitcoin pricing trend, https://www.kaggle.com/datasets/surajjha101/analyzing-and-prediction-of-bitcoin-pricing
 ```
-## Modeling
+## Modeling (in progress...)
 ### 1. Long short term memory
 - 역시 근본
 - 30 epoch
@@ -24,7 +24,7 @@
 
 ### 3. LightGBM
 - very fast
-- 스케일링 안하는게 나음
+- tree-base modeling 이므로 scaling 의미x
 ## References
 ```
 [1] Lim, Bryan, and Stefan Zohren. "Time-series forecasting with deep learning: a survey." Philosophical Transactions of the Royal Society A 379.2194 (2021): 20200209.
