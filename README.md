@@ -6,9 +6,10 @@
 ---------------------------------
 - Time-series forecasting modeling is widely applied in finance. In particular, machine learning methods provide insights that can learn time dynamics in a purely data-driven manner. Deep learning methods such as CNN models, RNN models and Attention-based models can be used to predict time-series prices.
 - I will use stock and bitcoin price data to implement some deep learning models that have been widely researched and implemented.
-- Forecasting will be conducted using APPL and BTC prices, which are considered to lead the financial market.
+- Forecasting will be conducted using AAPL and BTC prices, which are considered to lead the financial market.
 
 | [Presentation](https://github.com/OH-Seoyoung/Time-series_price_analysis/blob/master/20220331_stock_price_forecasting.pdf) |
+
 ## Dataset
 ```
 [1] Apple - 10 Year Stock Price History, https://www.kaggle.com/datasets/aleksandrdubrovin/apple-stock-price-history
@@ -18,13 +19,15 @@
 ### 1. Long short term memory
 - 역시 근본
 - 30 epoch
+
 ### 2. Wavenet
-- fast (10 epoch)
-- skip connection 이후 original Wavenet 대로 relu->conv 구조를 사용했으나 좋지않아서 dense로 대체
+- Fast (10 epoch)
+- Skip connection 이후 original Wavenet 대로 relu->conv 구조를 사용했으나 좋지않아서 dense로 대체
 
 ### 3. LightGBM
-- very fast
-- tree-base modeling 이므로 scaling 의미x
+- Very fast
+- Tree-base modeling 이므로 scaling 의미x
+
 ## References
 ```
 [1] Lim, Bryan, and Stefan Zohren. "Time-series forecasting with deep learning: a survey." Philosophical Transactions of the Royal Society A 379.2194 (2021): 20200209.
