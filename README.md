@@ -22,11 +22,11 @@
 
 ### 2. Wavenet
 - Fast (10 epoch)
-- Skip connection 이후 original Wavenet 대로 relu->conv 구조를 사용했으나 좋지않아서 dense로 대체
+- Skip connection 이후 original Wavenet 구조와 같이 Relu->Conv 구조를 사용했으나 성능이 좋지않아 Dense로 대체
 
 ### 3. LightGBM
 - Very fast
-- Tree-base modeling 이므로 scaling 의미x
+- Tree-base modeling 이므로 scaling 의미 X
 
 ## References
 ```
