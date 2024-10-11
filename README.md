@@ -1,7 +1,7 @@
 # Time-Series Price Analysis
 - Stock and Bitcoin time-series forecasting using machine learning.
 - Long short term memory, Wavenet, LightGBM
-- Jul. 7, 2021 ~ Present
+- Jul. 7, 2021
 
 ---------------------------------
 - Time-series forecasting modeling is widely applied in finance. In particular, machine learning methods provide insights that can learn time dynamics in a purely data-driven manner. Deep learning methods such as CNN models, RNN models and Attention-based models can be used to predict time-series prices.
