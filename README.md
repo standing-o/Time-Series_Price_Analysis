@@ -1,5 +1,5 @@
-# Time-series price analysis
-- Stock and Bitcoin time-series forecasting using machine learning
+# Time-Series Price Analysis
+- Stock and Bitcoin time-series forecasting using machine learning.
 - Long short term memory, Wavenet, LightGBM
 - Jul. 7, 2021 ~ Present
 
@@ -8,7 +8,7 @@
 - I will use stock and bitcoin price data to implement some deep learning models that have been widely researched and implemented.
 - Forecasting will be conducted using AAPL and BTC prices, which are considered to lead the financial market.
 
-| [Presentation](https://github.com/OH-Seoyoung/Time-series_price_analysis/blob/master/Presentation/20220331_stock_price_forecasting.pdf) |
+| [Presentation](https://github.com/OH-Seoyoung/Time-Series_Price_Analysis/blob/master/Presentation/20220331_stock_price_forecasting.pdf) |
 ## Dataset
 ```
 [1] Apple - 10 Year Stock Price History, https://www.kaggle.com/datasets/aleksandrdubrovin/apple-stock-price-history
@@ -16,7 +16,7 @@
 ```
 ## Modeling (in progress...)
 ### 1. Long short term memory
-- 역시 근본
+- Robust
 - 30 epoch
 
 ### 2. Wavenet
