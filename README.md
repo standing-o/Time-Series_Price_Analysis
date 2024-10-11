@@ -16,7 +16,7 @@
 ```
 ## Modeling (in progress...)
 ### 1. Long short term memory
-- Robust
+- 역시 근본
 - 30 epoch
 
 ### 2. Wavenet
